@@ -1,3 +1,3 @@
 # infrastructure-dockerfiles
 
-host private Docker Registry instance on Amazon EC2 and Amazon S3
+host private Docker Registry instance on Amazon ECS and Amazon S3
